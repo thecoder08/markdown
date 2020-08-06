@@ -1,0 +1,10 @@
+{
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "description": "A markdown parser.",
+  "license": "MIT",
+  "main": "main.js",
+  "name": "@thecoder08/markdown",
+  "version": "1.0.1"
+}
