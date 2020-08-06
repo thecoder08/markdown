@@ -6,5 +6,8 @@
   "license": "MIT",
   "main": "main.js",
   "name": "@thecoder08/markdown",
-  "version": "1.0.1"
+  "version": "1.0.2",
+  "dependencies": {
+    "markdown-it": "^11.0.0"
+  }
 }
